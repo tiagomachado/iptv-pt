@@ -27,8 +27,15 @@ https://bit.ly/42ySDn4?/index_5.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMyA3OjA6NDQgQU0maGFzaF92YWx1ZT1RSXVadXRpc2RGbzJvOXdDbzNxZFJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjRiZGJkOGEtODI2OS00MDNjLWE4YjEtNmMxNjg5MmNkZDVi/
 
-#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",AXN 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sic.pt/
-https://sicnot.live.impresa.pt/sicnot.m3u8
+https://list.iptvcat.com/my_list/s/ed1f325a9d3dcd9abfe696ff95f9cbe4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SportTV 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://list.iptvcat.com/my_list/s/2e68a02219bc94b4c8d02a6f2be9e633.m3u8
+
