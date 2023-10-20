@@ -35,16 +35,16 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 --------------------- Noticias ---------------------
 
-#EXTINF:-1 tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",SIC Noticias
+#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",SIC Noticias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="Portugal", RTP 3
+#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="Portugal", RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="cnnpthd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png", CNN Portugal
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png", CNN Portugal
 https://bit.ly/41Pufgt?/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
