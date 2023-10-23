@@ -25,32 +25,32 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bit.ly/42ySDn4?/index_5.m3u8
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMyA3OjA6NDQgQU0maGFzaF92YWx1ZT1RSXVadXRpc2RGbzJvOXdDbzNxZFJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjRiZGJkOGEtODI2OS00MDNjLWE4YjEtNmMxNjg5MmNkZDVi/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMyA4Ojc6MjEgQU0maGFzaF92YWx1ZT1BdUY5T1NwSHlYTmE2WlcwTmdBbFVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTJkYWExY2QtMjYyZC00MjRiLWE0ZGUtMjM1ZjQ3OTY5YjJm/
 
 
 --------------------- Noticias ---------------------
 
-#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",SIC Noticias
+#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",SIC Noticias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="Portugal", RTP 3
+#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png", RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png", CNN Portugal
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/cnnportugal.png", CNN Portugal
 https://bit.ly/41Pufgt?/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-03.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0tFsi5W2PFIAuw5iDrKAWEodSaBWfb9Mzd6rvQa1UIth)/dm/3/x8egnb8/s/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sv00wZZQFQ7xcHBDgxRSZtBxemU9QpCNTFMVpVHobBF)/dm/3/x8egnb8/s/live-2.m3u8
 
 
 
